@@ -1,0 +1,19 @@
+{
+  "name": "s-express",
+  "version": "0.0.1",
+  "description": "basic express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pjgrenyer/s-express.git"
+  },
+  "author": "Paul Grenyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjgrenyer/s-express/issues"
+  },
+  "homepage": "https://github.com/pjgrenyer/s-express#readme"
+}
